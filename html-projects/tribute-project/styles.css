@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+  background-color: rgba(173, 234, 234, 60%);
+    color: #003747;
+    border-style: solid;
+    border-color: #003747;
+  
+  }
+  
+  p {
+    font-size: 18px;
+    color: #046276;
+  }
+  
+  #img-caption {
+    font-size: 12px;
+    color: black;
+    text-align: center;
+  }
+  
+  .header {
+    text-align: center;
+    color: #003747;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #003747;
+  }
+  
+  ul  {
+    padding-left: 0;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  ul li {
+    list-style-position: inside;
+    color: #06768d;
+  }
+  
+  a:link {
+    color: #3b3b3b;
+  }
+  
+  a:visited {
+    color: #06768d;
+  }
+  
+  a:hover {
+    color: #065465;
+  }
+  
+  .poem {
+    padding-bottom: 10px;
+  }
+  
+  #tribute-info {
+    color: #3b3b3b;
+    text-align: center;
+  }
+  
